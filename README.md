@@ -14,6 +14,6 @@ This journey has not only shaped my academic pursuits but has also driven me to 
 🌐 **Languages**:
 - **Romanian**: Native-level, romanian beeing my
 - **English**: Fluent with excellent writing and communication skills, validated by a Cambridge B2 certificate.
-- **Spanish**: Almost native-level proficiency, having grown up in Spain. I'm open to taking tests to certify my skills.
+- **Spanish**: Having grown up in Spain, I boast near-native proficiency in Spanish. I'm also open to undergoing tests to officially certify my language skills.
 
 
