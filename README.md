@@ -7,7 +7,7 @@ This journey has not only shaped my academic pursuits but has also driven me to 
 
 💻 **Skills**:
 - **Problem Solving**: Excelling in unraveling complex problems with logical and efficient solutions.
-- **Programming Languages**: Proficient in C (University level) and Python (knowledge gained from "Python Crash Course, 3rd Edition." book) Basic proficiency in C++(Highschool level). Currently studying java.
+- **Programming Languages**: Proficient in C (University level) and Python (knowledge gained from "Python Crash Course, 3rd Edition." book) Basic proficiency in C++(Highschool level). Currently studying Java.
 - **Web Development**: A foundational understanding of Django and REST APIs(also gained from "Python Crash Course, 3rd Edition." book), paving the way for developing scalable web applications.
 - **Object-Oriented Programming (OOP)**: A basic understanding of OOP principles, enabling me to write clean, modular, and scalable code.
 - **Data Structures & Algorithms**: A strong foundation that supports efficient problem-solving and software optimization.
