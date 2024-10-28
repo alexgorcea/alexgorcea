@@ -1,6 +1,6 @@
 Hi, I'm Alex Gorcea 👋
 
-Currently in my 2nd year at FSEGA University in Cluj-Napoca, studying Computer Science and Economics.
+Currently in my 3nd year at FSEGA University in Cluj-Napoca, studying Computer Science and Economics.
 My journey with technology began in childhood, fostering a deep-seated passion that's grown with me into adulthood.
 This journey has not only shaped my academic pursuits but has also driven me to dive deep into the realms of programming and software development.
 
